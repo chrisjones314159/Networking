@@ -1,6 +1,6 @@
 # Open Systems Interconnect (OSI)
 
-OSI has 6 layers that the data passes through.
+OSI has 7 layers that the data passes through.
 
 ![cable connections](/images/osi.PNG)
 
